@@ -1,0 +1,11 @@
+[package]
+name = "nfc-rs"
+version = "0.1.0"
+edition = "2021"
+authors = ["Jonathan Dönszelmann <jonabent@gmail.com>", "Vivian Roest <v@0x76.dev>"]
+description = "native rust NFC driver implementation"
+license = "MIT OR Apache-2.0"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
